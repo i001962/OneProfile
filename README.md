@@ -14,7 +14,7 @@ npm start
 # in another tab
 npm run webpack
 # in *another* tab if you don't want the chrome extension version
-npx serve
+npm run serve
 ```
 
 Visit the npx url and it'll show you the related talks to the id set
@@ -37,7 +37,7 @@ CORS origins for your app. Right-click on the icon, click "Inspect popup",
 
 ```
 Failed to load https://serve.onegraph.com/dynamic?app_id=6c510423-45bc-4f46-af1b-54bc1676c10c: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'chrome-extension://jdaipnhimjnhdnionekkakggdbdmpaba' is therefore not allowed access. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
-popup.html:1 
+popup.html:1
 ```
 ![Example CORS error in chrome](imgs/oneprofile_error.png)
 

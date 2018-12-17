@@ -2,9 +2,9 @@
 'use strict';
 
 
-var _appId = "6c510423-45bc-4f46-af1b-54bc1676c10c";
+var _appId = "0a9fd7c5-856f-484a-b40b-d8d63e4f2fb3";
 
-var appId = "cd35c827-e257-4c47-bd7b-a53bf40263bc";
+var appId = "0a9fd7c5-856f-484a-b40b-d8d63e4f2fb3";
 
 exports._appId = _appId;
 exports.appId = appId;
