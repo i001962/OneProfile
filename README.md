@@ -1,4 +1,4 @@
-# OneProfile -kmm
+# OneProfile -kmm2
 
 ## Setup a OneGraph app:
 
